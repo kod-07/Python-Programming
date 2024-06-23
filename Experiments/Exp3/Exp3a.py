@@ -1,0 +1,12 @@
+a =[10,20,30,40,50,60,70,80,90,100]
+print(a)
+a.insert(3,300)
+print(a)
+a.remove(50)
+print(a)
+a.append(1000)
+print(a)
+print(len(a))
+print(a.pop())
+a.clear()
+print(a)
